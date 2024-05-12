@@ -1,0 +1,23 @@
+{
+  "description": "the MSX emulator that aims for perfection",
+  "homepage": "https://openmsx.org/",
+  "version": "19.1",
+  "license": [
+    {
+      "identifier": "Proprietary",
+      "url": "https://github.com/openMSX/openMSX"
+    }
+  ],
+  "url": [
+    "https://github.com/openMSX/openMSX/releases/download/RELEASE_19_1/openmsx-19.1-windows-vc-x64-bin.zip"
+  ],
+  "hash": [
+    "96b886f2c80ae09c8b4595221d164121fe2549ea903e2801d9add6880b4ca46f"
+  ],
+  "shortcuts": [
+    [
+      "Catapult\\bin\\Catapult.exe",
+      "OpenMSX Catapult"
+    ]
+  ]
+}
