@@ -2,6 +2,12 @@
 
 ## May 19, 2024
 
+- turboc-dos
+- turbocpp-dos
+- turbopascal-dos
+    - Add Borland Antique Softwares provided at Embarcadero Community.
+    - For your reference only manifests.
+
 - msdos-player
     - Add [MS-DOS Player for Win32-x64](http://takeda-toshiya.my.coocan.jp/msdos/)
 
