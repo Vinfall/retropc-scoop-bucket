@@ -1,0 +1,54 @@
+{
+  "description": "MS-DOS Player for Win32-x64",
+  "homepage": "http://takeda-toshiya.my.coocan.jp/msdos/",
+  "version": "20240203",
+  "license": [
+    {
+      "identifier": "GPL-2.0"
+    }
+  ],
+  "url": [
+    "http://takeda-toshiya.my.coocan.jp/msdos/msdos.7z"
+  ],
+  "hash": [
+    "11d03f76be520843114f2fcf4ca8604ea569cbbc7cfb10673bb457904d4a7126"
+  ],
+  "extract_dir": [
+    "msdos"
+  ],
+  "installer": {
+    "script": [
+      "$null = New-Item -ItemType File -Path \"${dir}\\np2.ini\""
+    ]
+  },
+  "bin": [
+    [
+      "binary\\i86_x64\\msdos.exe",
+      "msdos86"
+    ],
+    [
+      "binary\\v30_x64\\msdos.exe",
+      "msdosv30"
+    ],
+    [
+      "binary\\i286_x64\\msdos.exe",
+      "msdos286"
+    ],
+    [
+      "binary\\i386_x64\\msdos.exe",
+      "msdos386"
+    ],
+    [
+      "binary\\i486_x64\\msdos.exe",
+      "msdos486"
+    ],
+    [
+      "binary\\pentium4_x64\\msdos.exe",
+      "msdosp4"
+    ],
+    [
+      "binary\\ia32_x64\\msdos.exe",
+      "msdos"
+    ]
+  ]
+}

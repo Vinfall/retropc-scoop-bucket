@@ -2,6 +2,9 @@
 
 ## May 19, 2024
 
+- msdos-player
+    - Add [MS-DOS Player for Win32-x64](http://takeda-toshiya.my.coocan.jp/msdos/)
+
 - msdos-dos
     - Rename from ```msdos``` manifest.
     - MS-DOS 4.0 contains build tools below:
