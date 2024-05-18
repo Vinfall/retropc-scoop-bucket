@@ -1,6 +1,6 @@
 # CHANGELOG
 
-## May 19, 2023d
+## May 19, 2024
 
 - msdos-dos
     - Rename from ```msdos``` manifest.
@@ -12,7 +12,7 @@
         - Microsoft (R) C Optimizing Compiler Version 5.10
         - and more.
 
-## May 12, 2023
+## May 12, 2024
 
 - Initial release.
 
