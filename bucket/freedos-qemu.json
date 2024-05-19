@@ -11,9 +11,9 @@
     "https://raw.githubusercontent.com/gsminek/retropc-scoop-bucket/main/resource/freedos-qemu/freebsd-qemu.cmd"
   ],
   "hash": [
-    ""
+    "460800aca3a1eb28ae5562ba07a918592912c9ac6b3320057353e66b84cef225"
   ],
   "bin": [
-    "freebsd-qemu.cmd"
+    "freedos-qemu.cmd"
   ]
 }
