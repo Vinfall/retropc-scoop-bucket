@@ -2,6 +2,8 @@
 
 ## May 19, 2024
 
+- machine-dos
+    - Add MS-DOS CD-ROM perisit directory for ISO images.
 - turboc-dos
 - turbocpp-dos
 - turbopascal-dos
