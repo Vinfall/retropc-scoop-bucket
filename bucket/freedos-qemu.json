@@ -7,6 +7,11 @@
       "identifier": "Public Domain"
     }
   ],
+  "depends": [
+    "main/qemu",
+    "machine-dos",
+    "freedos-dos"
+  ],
   "url": [
     "https://raw.githubusercontent.com/gsminek/retropc-scoop-bucket/main/resource/freedos-qemu/freedos-qemu.cmd"
   ],
