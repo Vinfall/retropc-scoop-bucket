@@ -1,4 +1,5 @@
 @echo off
+setlocal
 set VERSION=20240519
 echo FreeDOS 1.3 instant QEMU VM script version %VERSION%
 
@@ -111,7 +112,7 @@ if "%architecture%"=="32bit" set qemu=qemu-system-i386w
 
 if "%qemu_mem%"=="" set qemu_mem=16M
 if "%qemu_nic%"=="" set qemu_nic=-net nic,model=ne2k_pci -net user
-if "%qemu_audio%"=="" set qemu_audio=-soundhw adlib,sb16
+if "%qemu_audio%"=="" set qemu_audio=-device adlib -device sb16
 if "%qemu_opts%"=="" set qemu_opts=-boot order=ac -fda "%freedos_fd%" -cdrom "%freedos_cd%"
 
 @echo on
@@ -125,8 +126,10 @@ echo INFO: if FreeDOS is installed, you will execute "set qemu_opts=-boot order=
 :JEND
 echo.
 echo Job end normal.
+endlocal
 goto :EOF
 
 :JABEND
 echo.
 echo Job ends abnormal(%ERRORLEVEL%).
+endlocal
