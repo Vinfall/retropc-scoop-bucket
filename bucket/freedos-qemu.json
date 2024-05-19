@@ -1,0 +1,19 @@
+{
+  "description": "FreeDOS QEMU virtual machine",
+  "homepage": "https://github.com/gsminek/retropc-scoop-bucket",
+  "version": "1.3.20240519",
+  "license": [
+    {
+      "identifier": "Public Domain"
+    }
+  ],
+  "url": [
+    "https://raw.githubusercontent.com/gsminek/retropc-scoop-bucket/main/resource/freedos-qemu/freebsd-qemu.cmd"
+  ],
+  "hash": [
+    ""
+  ],
+  "bin": [
+    "freebsd-qemu.cmd"
+  ]
+}

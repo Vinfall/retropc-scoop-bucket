@@ -2,6 +2,8 @@
 
 ## May 19, 2024
 
+- freedos-qemu
+    - Add FreeDOS 1.3 QEMU virtual machine script ```freebsd-qemu.cmd```.
 - msdos-dos
     - Convert the repository to a ISO image.
 - machine-dos
