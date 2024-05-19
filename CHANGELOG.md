@@ -2,6 +2,8 @@
 
 ## May 19, 2024
 
+- msdos-dos
+    - Convert the repository to a ISO image.
 - machine-dos
     - Add MS-DOS CD-ROM perisit directory for ISO images.
 - turboc-dos
