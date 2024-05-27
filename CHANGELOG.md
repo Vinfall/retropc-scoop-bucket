@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 28, 2024
+
+- freebsd-pc98
+    - Add FreeBSD 4.11-RELEASE of 98readme, floppy98 and rawrite.exe.
+
 ## May 19, 2024
 
 - freedos-qemu
