@@ -3,7 +3,7 @@
 ## May 28, 2024
 
 - freebsd-pc98
-    - Add FreeBSD 4.11-RELEASE of 98readme, floppy98 and rawrite.exe.
+    - Add FreeBSD(98) 8.4-RELEASE ISOs.
 
 ## May 19, 2024
 
