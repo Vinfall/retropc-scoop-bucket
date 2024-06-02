@@ -2,6 +2,8 @@
 
 ## June 2, 2024
 
+- djgpp-c-*
+    - Add DJGPP Version 2.24.05.
 - kolibrios
     - Add KolibriOS Version 0.7.7.0.
 - menuetos
