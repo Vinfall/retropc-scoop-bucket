@@ -2,6 +2,8 @@
 
 ## June 2, 2024
 
+- hxdos-dos
+    - Add HX-DOS DOS on DOS emulator Version dosbox-x-v2024.03.01.
 - upx-dos
     - Add UPX Version 4.2.4.
 - open-watcom-*
