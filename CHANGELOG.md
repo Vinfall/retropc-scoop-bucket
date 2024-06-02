@@ -2,6 +2,8 @@
 
 ## June 2, 2024
 
+- djgpp-libc-pc98
+    - ADD djgpp v2.05 libc patch for PC-AT/PC-9800.
 - djgpp-c-*
     - Add DJGPP Version 2.24.05.
 - kolibrios
