@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## June 2, 2024
+
+- open-watcom-*
+    - Add Open Watcom v2 Fork 2024-06-01-Build.
+
 ## May 28, 2024
 
 - freebsd-pc98
