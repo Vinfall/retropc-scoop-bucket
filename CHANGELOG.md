@@ -2,8 +2,10 @@
 
 ## June 2, 2024
 
+- kolibrios
+    - Add KolibriOS Version 0.7.7.0.
 - menuetos
-    - Add MenuetOS 1.51.10.
+    - Add MenuetOS Version 1.51.10.
 - hxdos-dos
     - Add HX-DOS DOS on DOS emulator Version dosbox-x-v2024.03.01.
 - upx-dos
