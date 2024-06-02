@@ -2,6 +2,8 @@
 
 ## June 2, 2024
 
+- upx-dos
+    - Add UPX Version 4.2.4.
 - open-watcom-*
     - Add Open Watcom v2 Fork 2024-06-01-Build.
 
