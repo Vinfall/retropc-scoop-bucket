@@ -16,6 +16,8 @@
     - Add JWlink for Win32 Version 1.9 beta 13.
 - git-sdk
     - Add Git for Windows SDK Version 1.0.8.
+- gcc-ia16-dos
+    - Add GCC IA-16 toolchain for FreeDOS 12 Oct 2023/28 Sep 2023.
 
 ## June 2, 2024
 
