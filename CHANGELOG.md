@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## June 3, 2024
+
+- djgpp-gnu-dos
+    - Add djgpp v2.05 gnu files.
+
 ## June 2, 2024
 
 - djgpp-libc-pc98
