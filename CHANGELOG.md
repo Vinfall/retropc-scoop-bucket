@@ -10,6 +10,8 @@
     - Fix homepage.
 - jwlink-dos
     - Add JWlink Version 1.9 beta 13.
+- jwasm
+    - Add JWasm for Win32 Version 2.11a.
 
 ## June 2, 2024
 
