@@ -14,6 +14,8 @@
     - Add JWasm for Win32 Version 2.11a.
 - jwlink
     - Add JWlink for Win32 Version 1.9 beta 13.
+- git-sdk
+    - Add Git for Windows SDK Version 1.0.8.
 
 ## June 2, 2024
 
