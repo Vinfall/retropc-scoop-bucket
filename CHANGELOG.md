@@ -4,6 +4,8 @@
 
 - djgpp-gnu-dos
     - Add djgpp v2.05 gnu files.
+- djgpp-files
+    - Add djgpp index text files.
 
 ## June 2, 2024
 
