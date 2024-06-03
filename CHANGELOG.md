@@ -3,7 +3,7 @@
 ## June 3, 2024
 
 - djgpp-gnu-dos
-    - Add djgpp v2.05 gnu files.
+    - Add djgpp v2.24.05 gnu files.
 - djgpp-files
     - Add djgpp index text files.
 - jwasm-dos
