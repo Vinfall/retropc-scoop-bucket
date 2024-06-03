@@ -8,6 +8,8 @@
     - Add djgpp index text files.
 - jwasm-dos
     - Fix homepage.
+- jwlink-dos
+    - Add JWlink Version 1.9 beta 13.
 
 ## June 2, 2024
 
