@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## Dec 7, 2024
+
+- xplm-dos
+    - Add PL/M-80 compiler for DOS Box
+
 ## June 3, 2024
 
 - djgpp-gnu-dos
