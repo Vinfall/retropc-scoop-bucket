@@ -2,6 +2,8 @@
 
 ## May 3, 2025
 
+- freedos-dos
+    - Update to Version 1.4.
 - machine-dos
     - Fix hash
 - kaitai-struct-compiler
