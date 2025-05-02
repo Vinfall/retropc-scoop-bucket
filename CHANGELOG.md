@@ -1,5 +1,10 @@
 # CHANGELOG
 
+## May 3, 2025
+
+- kaitai-struct-compiler
+    - Add binary parser
+
 ## Dec 7, 2024
 
 - xplm-dos
