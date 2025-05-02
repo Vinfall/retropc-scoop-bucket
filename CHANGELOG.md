@@ -2,6 +2,8 @@
 
 ## May 3, 2025
 
+- machine-dos
+    - Fix hash
 - kaitai-struct-compiler
     - Add binary parser
 
