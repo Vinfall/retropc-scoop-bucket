@@ -1,5 +1,12 @@
 # CHANGELOG
 
+## May 13, 2025
+
+- np21w
+    - Update to 0.38-rev93.
+- np21w-beta
+    - Add np21w-beta Version 0.38-rev94beta4.
+
 ## May 3, 2025
 
 - freedos-dos
